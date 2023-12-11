@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1159799,
+            "tagId": 16438,
+            "name": "banana",
+            "value": null,
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-09-07T16:54:08.477Z",
+            "updatedAt": "2023-09-07T16:54:08.477Z"
+        }
+    ],
+    "size": {
+        "height": 258,
+        "width": 320
+    },
+    "objects": []
+}

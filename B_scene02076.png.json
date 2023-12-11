@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1147035,
+            "tagId": 16437,
+            "name": "apple",
+            "value": null,
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-09-07T16:34:47.091Z",
+            "updatedAt": "2023-09-07T16:34:47.091Z"
+        },
+        {
+            "id": 1147036,
+            "tagId": 16452,
+            "name": "sub-category",
+            "value": "Apple B",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-09-07T16:34:47.091Z",
+            "updatedAt": "2023-09-07T16:34:47.091Z"
+        }
+    ],
+    "size": {
+        "height": 322,
+        "width": 480
+    },
+    "objects": []
+}
